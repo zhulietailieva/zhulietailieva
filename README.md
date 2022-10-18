@@ -1,4 +1,4 @@
-### Hi there :raised_hand_with_fingers_splayed:
+### Hi there 🖐🏻
 - :green_book: I’m currently studying at Technical University of Sofia, Bulgaria specialising in Computer and Software Engineering 
 - :brain: I’m currently learning C# Web Development
 - :e-mail: How to reach me: iilievazhulieta@gmail.com
