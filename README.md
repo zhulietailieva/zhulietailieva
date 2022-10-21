@@ -1,7 +1,8 @@
 ### Hi there 🖐🏻
-- :green_book: I’m currently studying at Technical University of Sofia, Bulgaria specialising in Computer and Software Engineering 
-- :brain: I’m currently learning C# Web Development
-- :e-mail: How to reach me: iilievazhulieta@gmail.com
+- :blossom: I am Zhulieta Ilieva
+- :green_book: I am currently studying at Technical University of Sofia, Bulgaria specialising in Computer and Software Engineering 
+- :brain: I am currently learning C# Web Development
+- :e-mail: You can reach me here: iilievazhulieta@gmail.com
 <!--
 **zhulietailieva/zhulietailieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
