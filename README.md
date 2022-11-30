@@ -23,4 +23,3 @@ Here are some ideas to get you started:
   alt="Lavander"
   style="display: inline-block; margin: 0 auto; width: 240px; height: 240px">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zhulietailieva&layout=compact"/>
