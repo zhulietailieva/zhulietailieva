@@ -22,3 +22,5 @@ Here are some ideas to get you started:
   src="https://st4.depositphotos.com/2389541/21375/i/600/depositphotos_213758958-stock-photo-lavender-flowers-watercolor-illustration-straight.jpg"
   alt="Lavander"
   style="display: inline-block; margin: 0 auto; width: 240px; height: 240px">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zhulietailieva&layout=compact"/>
